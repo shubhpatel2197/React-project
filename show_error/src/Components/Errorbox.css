@@ -1,0 +1,49 @@
+/* .out,.output{
+    filter: blur(4px);
+  
+} */
+
+.error{
+    font-family: 'Times New Roman', Times, serif;
+    
+    background-color: sienna;
+    max-width: 40rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   margin:auto ;
+   position: relative;
+   margin-top: -9rem;
+   border: 0.4rem rgb(108, 28, 28) solid;
+  
+}
+
+.line{
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    margin-top: -2rem;
+    color: #ffffff;
+    margin-left:3rem;
+}
+
+.butt{
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: rgb(96, 233, 160);
+    border-radius: 0.8rem;
+    border: 0.2rem rgb(108, 28, 28) solid;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    width: 10rem;
+    height: 1.98rem;
+    margin-bottom: -5rem;
+    margin-left:-7rem ;
+   
+ 
+   
+}
